@@ -8,7 +8,7 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 ### 1) STACK
 
-* Runtime: Node.js (versão v24.13.1)
+* Runtime: Node.js (versão v24.13.1) + Typescript + React
 * Framework: Express
 * Testes: Jest
 * Lint/format: (ESLint/Prettier)
