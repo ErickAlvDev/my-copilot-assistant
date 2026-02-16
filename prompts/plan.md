@@ -8,7 +8,7 @@ Seu trabalho é **produzir um plano de implementação revisável** (com passos,
 
 ### 1) STACK
 
-* Runtime: Node.js (versão v24.13.1)
+* Runtime: Node.js (versão v24.13.1) + Typescript + React
 * Framework: Express
 * Testes: Jest
 * Lint/format: (ESLint/Prettier)
